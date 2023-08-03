@@ -16,6 +16,8 @@ JAVASCRIPT, HTML, CSS
 ## Screenshots
 
 ![image](./Image//Project.png)
+
+[Live Preview](https://dad-jokes-js-proj.netlify.app/)
 ***
 ## What i learn from this project
 - How to select element by dom.
